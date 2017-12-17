@@ -1,4 +1,4 @@
-#otvoriti terminal, pozicijonirati se u direktoriju sa datotekom i izvrsiti navedene naredbe
+#otvoriti terminal, pozicionirati se u direktoriju sa datotekom i izvrsiti navedene naredbe
 #export FLASK_APP=autentifikacija.py
 #flask run
 
